@@ -5,11 +5,13 @@ body{
 
 .money{
     position: fixed;
-    width:10%;
-    height:10%;
+    width:2%;
 }
 .cash{
-    margin:10px;
+    margin:40px;
+    color:blue;
+    font-weight: 800;
+    font-size: 20px;
 }
 
 .board{
